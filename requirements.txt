@@ -1,3 +1,5 @@
 streamlit
 pandas
-sqlite3-binary
+numpy
+matplotlib
+plotly
